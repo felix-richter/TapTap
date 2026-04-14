@@ -28,7 +28,7 @@ A Android reaction game. Tap the correct (green) button as fast and as often as 
 ### Build & Run
 1. Clone the repository:
 ```bash
-   git clone https://github.com//TapTap.git
+   git clone https://github.com/felix-richter/TapTap.git
 ```
 2. Open the project in **Android Studio**
 3. Let Gradle sync
